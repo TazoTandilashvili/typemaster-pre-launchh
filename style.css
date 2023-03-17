@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav_Bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav_Bar h1{
+    background-color: brown;
+    padding: 100px;
+    color: white;
+}
